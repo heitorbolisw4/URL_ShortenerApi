@@ -1,5 +1,7 @@
 services:
   api:
+    volumes:
+      -sqlite-data: /Data
     build:
       context: .
       dockerfile: Dockerfile
@@ -9,3 +11,6 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       ASPNETCORE_URLS: http://+:8080
+
+volumes:
+  sqlite-data:
