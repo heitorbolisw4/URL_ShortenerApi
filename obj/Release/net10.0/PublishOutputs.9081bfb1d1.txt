@@ -1,0 +1,8 @@
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\appsettings.Development.json
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\appsettings.json
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\URL_ShortnetApi.dll
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\URL_ShortnetApi.deps.json
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\URL_ShortnetApi.runtimeconfig.json
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\URL_ShortnetApi.pdb
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\Microsoft.EntityFrameworkCore.dll
+C:\Users\heito\Desktop\URL_ShortnetApi\bin\docker-verify\Microsoft.EntityFrameworkCore.Abstractions.dll
