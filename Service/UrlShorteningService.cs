@@ -1,4 +1,4 @@
-using Data;
+using URL_ShortnetApi.Data;
 using Microsoft.EntityFrameworkCore;
 using URL_ShortnetApi.Entities;
 

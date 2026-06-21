@@ -1,7 +1,7 @@
 using URL_ShortnetApi.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace Data
+namespace URL_ShortnetApi.Data
 {
     public class AppDbContext : DbContext
     {
