@@ -1,4 +1,4 @@
-using Entities;
+using URL_ShortnetApi.Entities;
 using Microsoft.EntityFrameworkCore;
 
 namespace Data

@@ -1,4 +1,4 @@
-namespace Entities
+namespace URL_ShortnetApi.Entities
 {
     public class ShortenedUrl
     {
